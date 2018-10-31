@@ -61,7 +61,7 @@ public class MainAdapter extends RecyclerView.Adapter<MainAdapter.ListMenuViewHo
             nama_tim = itemView.findViewById(R.id.listNama);
             kota_tim = itemView.findViewById(R.id.listKota);
             gambar_tim = itemView.findViewById(R.id.listGambar);
-
+            //bind
             this.mainAdapter = adapter;
             cdView.setOnClickListener(this);
         }

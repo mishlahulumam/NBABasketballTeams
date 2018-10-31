@@ -2,15 +2,12 @@ package com.example.mishlahul.nbabasketballteams.adapter;
 
 import android.content.Context;
 import android.content.Intent;
-import android.provider.Settings;
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.example.mishlahul.nbabasketballteams.DetailActivity;
@@ -42,10 +39,9 @@ public class MainAdapter extends RecyclerView.Adapter<MainAdapter.ListMenuViewHo
     @Override
     public void onBindViewHolder(ListMenuViewHolder holder, int position) {
         final MainModel mCurrent = listTim.get(position);
-        holder.namaTim.setText(mCurrent.getNamaTim());
-        holder.kotaTim.setText(mCurrent.getKotaTim());
-        holder.deskTim.setText(mCurrent.getDeskTim());
-        holder.fotoTim.setImageResource(mCurrent.getFotoTim());
+        holder.nama_tim.setText(mCurrent.getNamaTim());
+        holder.kota_tim.setText(mCurrent.getKotaTim());
+        //holder.gambar_tim.setImageResource(mCurrent.getFotoTim());
     }
 
     @Override
@@ -54,18 +50,17 @@ public class MainAdapter extends RecyclerView.Adapter<MainAdapter.ListMenuViewHo
     }
 
     public class ListMenuViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
-        private TextView namaTim, kotaTim, deskTim;
-        private ImageView fotoTim;
+        private TextView nama_tim, kota_tim;
+        private ImageView gambar_tim;
         private CardView cdView;
 
         final MainAdapter mainAdapter;
         public ListMenuViewHolder(View itemView, MainAdapter adapter){
             super(itemView);
             cdView = itemView.findViewById(R.id.detail);
-            namaTim = itemView.findViewById(R.id.namaTim);
-            kotaTim = itemView.findViewById(R.id.kotaTim);
-            deskTim = itemView.findViewById(R.id.deskTim);
-            fotoTim = itemView.findViewById(R.id.fotoTim);
+            nama_tim = itemView.findViewById(R.id.listNama);
+            kota_tim = itemView.findViewById(R.id.listKota);
+            gambar_tim = itemView.findViewById(R.id.listGambar);
 
             this.mainAdapter = adapter;
             cdView.setOnClickListener(this);
@@ -78,10 +73,10 @@ public class MainAdapter extends RecyclerView.Adapter<MainAdapter.ListMenuViewHo
 
             Intent i = new Intent(context, DetailActivity.class);
 
-            i.putExtra("Nama Tim",element.getNamaTim());
-            i.putExtra("Kota Tim",element.getKotaTim());
-            i.putExtra("Deskripsi Tim",element.getDeskTim());
-            i.putExtra("Foto",element.getFotoTim());
+            i.putExtra("nama",element.getNamaTim());
+            i.putExtra("kota",element.getKotaTim());
+            i.putExtra("deskripsi",element.getDeskTim());
+            i.putExtra("foto",element.getFotoTim());
 
             context.startActivity(i);
             mainAdapter.notifyDataSetChanged();

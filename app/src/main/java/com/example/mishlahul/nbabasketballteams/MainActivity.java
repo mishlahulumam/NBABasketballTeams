@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         listTim.addLast(new MainModel("Milwaukee Bucks","Milwaukee, WI", dBucks, R.drawable.bucks));
         listTim.addLast(new MainModel("Miami Heat","Miami, FL", dHeat, R.drawable.heat));
 
-        recyclerView = findViewById(R.id.list_menu);
+        recyclerView = findViewById(R.id.rvList_tim);
         mainAdapter = new MainAdapter(MainActivity.this,listTim);
         recyclerView.setAdapter(mainAdapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));

@@ -23,7 +23,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/nama"
+                android:id="@+id/namaKu"
                 android:layout_gravity="left"
                 android:layout_marginTop="5dp"
                 android:text="Nama             : Muhammad Mishlahul Umam"
@@ -31,7 +31,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/jurusan"
+                android:id="@+id/jurusanKu"
                 android:layout_gravity="left"
                 android:layout_marginTop="5dp"
                 android:text="Jurusan         : Teknik Informatika"
@@ -39,7 +39,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/nim"
+                android:id="@+id/nimKu"
                 android:layout_gravity="left"
                 android:layout_marginTop="5dp"
                 android:text="NIM                : 1157050108"
@@ -47,7 +47,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/universitas"
+                android:id="@+id/universitasKu"
                 android:layout_gravity="left"
                 android:layout_marginTop="5dp"
                 android:text="Universitas   : UIN Sunan Gunung Djati Bandung"
@@ -55,7 +55,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/tanggalLahir"
+                android:id="@+id/tanggalLahirKu"
                 android:layout_gravity="left"
                 android:layout_marginTop="5dp"
                 android:text="TTL                : Makassar, 18 Agustus 1996"

@@ -44,10 +44,6 @@
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/color-v23/abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-v24_bulls.png.flat",
-        "source": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/src/main/res/drawable-v24/bulls.png"
-    },
-    {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
@@ -216,6 +212,10 @@
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/layout-v26/abc_screen_toolbar.xml"
     },
     {
+        "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable_bucks.png.flat",
+        "source": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/src/main/res/drawable/bucks.png"
+    },
+    {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/color-v23_abc_tint_default.xml.flat",
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/color-v23/abc_tint_default.xml"
     },
@@ -322,6 +322,10 @@
     {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/color-v23_abc_tint_seek_thumb.xml.flat",
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable_celtics.png.flat",
+        "source": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/src/main/res/drawable/celtics.png"
     },
     {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -448,6 +452,10 @@
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
+        "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable_knicks.png.flat",
+        "source": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/src/main/res/drawable/knicks.png"
+    },
+    {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/layout/abc_activity_chooser_view_list_item.xml"
     },
@@ -572,12 +580,12 @@
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
-        "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ca25fd5ff27d201074289f4b92a4547e/res/layout-v21/notification_template_icon_group.xml"
-    },
-    {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ca25fd5ff27d201074289f4b92a4547e/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -652,6 +660,10 @@
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable_heat.jpg.flat",
+        "source": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/src/main/res/drawable/heat.jpg"
+    },
+    {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/layout/abc_action_mode_bar.xml"
     },
@@ -706,10 +718,6 @@
     {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-v24_knicks.png.flat",
-        "source": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/src/main/res/drawable-v24/knicks.png"
     },
     {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -814,10 +822,6 @@
     {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-v24_celtics.png.flat",
-        "source": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/src/main/res/drawable-v24/celtics.png"
     },
     {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
@@ -1036,10 +1040,6 @@
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-v24_bucks.png.flat",
-        "source": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/src/main/res/drawable-v24/bucks.png"
-    },
-    {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/drawable/abc_btn_borderless_material.xml"
     },
@@ -1084,12 +1084,12 @@
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-v24_profile.jpg.flat",
-        "source": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/src/main/res/drawable-v24/profile.jpg"
-    },
-    {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
         "source": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable_profile.JPG.flat",
+        "source": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/src/main/res/drawable/profile.JPG"
     },
     {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -1110,10 +1110,6 @@
     {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-v24_heat.jpg.flat",
-        "source": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/src/main/res/drawable-v24/heat.jpg"
     },
     {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
@@ -1162,6 +1158,10 @@
     {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable_cavs.png.flat",
+        "source": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/src/main/res/drawable/cavs.png"
     },
     {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
@@ -1354,6 +1354,10 @@
     {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable_bulls.png.flat",
+        "source": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/src/main/res/drawable/bulls.png"
     },
     {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -1558,10 +1562,6 @@
     {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
         "source": "/Users/muhammadmishlahulumam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c220a4a0cd9da709e4969301948089f/res/layout/abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-v24_cavs.png.flat",
-        "source": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/src/main/res/drawable-v24/cavs.png"
     },
     {
         "merged": "/Users/muhammadmishlahulumam/AndroidStudioProjects/NBABasketballTeams/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",

@@ -41,7 +41,7 @@ public class MainAdapter extends RecyclerView.Adapter<MainAdapter.ListMenuViewHo
         final MainModel mCurrent = listTim.get(position);
         holder.nama_tim.setText(mCurrent.getNamaTim());
         holder.kota_tim.setText(mCurrent.getKotaTim());
-        //holder.gambar_tim.setImageResource(mCurrent.getFotoTim());
+        holder.gambar_tim.setImageResource(mCurrent.getFotoTim());
     }
 
     @Override
